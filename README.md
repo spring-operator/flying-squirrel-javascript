@@ -10,10 +10,10 @@ The Flying Squirrel Client is built on top of
 that inside html "head" tag:
 
     <script type="text/javascript"
-            src="http://cdn.socket.io/stable/socket.io.js"></script>
+            src="https://cdn.socket.io/stable/socket.io.js"></script>
 
     <script type="text/javascript"
-            src="http://cdn.squirr.us/flyingsquirrel-client-0.0.0.js"></script>
+            src="https://cdn.squirr.us/flyingsquirrel-client-0.0.0.js"></script>
 
 
 To establish a client connection you need two variables
@@ -54,14 +54,14 @@ Documentation
 Flying Squirrel API
 ===================
 
-The Flying Squirrel API requires [jQuery](http://jquery.com/)
+The Flying Squirrel API requires [jQuery](https://jquery.com/)
 library. Put that inside html "head" tag:
 
     <script type="text/javascript"
-            src="http://code.jquery.com/jquery-1.6.min.js"></script>
+            src="https://code.jquery.com/jquery-1.6.min.js"></script>
 
     <script type="text/javascript"
-            src="http://cdn.squirr.us/flyingsquirrel-api-0.0.0.js"></script>
+            src="https://cdn.squirr.us/flyingsquirrel-api-0.0.0.js"></script>
 
 
 To connect to Flying Squirrel service need the `api_url`.
